@@ -19,7 +19,8 @@ respostas = {
     "como pedir um carro por aplicativo?": "Use apps como Uber ou 99, faça login, informe o destino e solicite o carro.",
     "onde tem caixa eletrônico perto de mim?": "Procure por caixas eletrônicos no Google Maps ou no app do seu banco.",
     "como faço para pagar uma conta online?": "Acesse o app do seu banco, escolha a opção de pagamentos e escaneie o código de barras da conta.",
-    "onde posso comprar gás de cozinha?": "Você pode comprar gás de cozinha em depósitos especializados ou pedir por aplicativos de entrega."
+    "onde posso comprar gás de cozinha?": "Você pode comprar gás de cozinha em depósitos especializados ou pedir por aplicativos de entrega.",
+    "Flamengo!": "Santos 1x0 Flamengo - Gol do Neymar JR em plena Vila Belmiro",
 }
 
 @app.route("/")
